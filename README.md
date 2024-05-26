@@ -1,2 +1,2 @@
-# 15_AI_Project_Cyber-Secuerity_sms_spam_detector-main
-15_AI_Project_Cyber Secuerity_sms_spam_detector-main
+# sms_spam_detector
+Used the AI Skills to build the model to present the interface for SMS Spam Detecting and Alert. 
